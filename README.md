@@ -1,4 +1,4 @@
 # SpartaHacks
 The website for Guelph's largest hackathon!
 
-There's nothing here! 
+[Github Pages Demo](https://avid-day.github.io/SpartaHacks/home.html "Spartahacks Website on Github Pages")
