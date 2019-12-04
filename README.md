@@ -6,5 +6,4 @@ The website for Guelph's largest hackathon!
 [Live Website](http://spartahacks.ca)
 
 Credits to:
-Jaime Rios
-Kevin Jiang
+Jaime Rios, Kevin Jiang
