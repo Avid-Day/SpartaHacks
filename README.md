@@ -11,6 +11,6 @@ The website for Guelph's largest hackathon!
 How do I change the live site? <br>
 > Once you have commited to the github repo, you must go onto CPanel and perform the following actions:<br>1. Go to Github Version Control <br> 2. Click Manage SpartaHacks Repo <br> 3. Go to Pull and Deploy Tab <br> 4. Click Update, then click Deploy Head Commit <br>
 
-The steps above can be skipped if automatic deployment is added. As of now, it is not! <br>
+Make sure to check your changes on github pages before updating to the live site! <br>
 Credits to:
 Jaime Rios, Kevin Jiang
