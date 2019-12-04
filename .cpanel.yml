@@ -1,3 +1,5 @@
-    ---
+---
 deployment:
   tasks:
+    - export DEPLOYPATH=/home/sparrtdy/public_html/
+    - /bin/cp -r * $DEPLOYPATH
