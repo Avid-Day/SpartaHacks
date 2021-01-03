@@ -1,7 +1,7 @@
 # SpartaHacks IV
 The website for Guelph's largest hackathon!
 
->[Github Pages Demo](https://ULTYMAN.github.io/SpartaHacks/home.html "Spartahacks Website on Github Pages")
+>[Github Pages Demo](https://davixiao.github.io/SpartaHacks/home.html "Spartahacks Website on Github Pages")
 
 >[Live Website](http://spartahacks.ca)
 
